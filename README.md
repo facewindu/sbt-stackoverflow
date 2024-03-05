@@ -1,4 +1,4 @@
-Reproducer for issue TBD
+Reproducer for issue https://github.com/sbt/sbt/issues/7509
 
 The build contains a `failingTask` task, which throws a self-referencing exception
 
